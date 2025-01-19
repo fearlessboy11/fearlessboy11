@@ -1,7 +1,7 @@
-- 👋 Hi, I’m Atul Mishra
-- 👀 I’m interested in coding
-- 🌱 I’m currently learning html/css
-- 💞️ I’m looking to collaborate on google
+- 👋 Hi, I’m Atul Mishra..
+- 👀 I’m interested in coding..
+- 🌱 I’m currently learning web dev..
+- 💞️ I’m looking to collaborate on google..
 - 📫 How to reach me @_fearlessboy1
 
 <!---
