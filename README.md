@@ -2,7 +2,7 @@
 - 👀 I’m interested in coding..
 - 🌱 I’m currently learning web dev..
 - 💞️ I’m looking to collaborate on google..
-- 📫 How to reach me @_fearlessboy1
+- 📫 How to reach me @_fearlessboy1.1
 
 <!---
 fearlessboy11/fearlessboy11 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
